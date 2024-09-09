@@ -8,6 +8,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmduartedev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
+![GitHub Followers](https://img.shields.io/github/followers/mmduartedev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/mmduartedev?style=social)
+
 <p align="center">
     <br/><br/><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mathewduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://www.facebook.com/https://www.facebook.com/melomatthewdev/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A0A0B?logo=facebook&style=for-the-badge&logoColor=white" alt="Facebook Badge" /></a>
@@ -44,6 +47,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">  
 <p/>
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmduartedev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/mmduartedev/github-readme-activity-graph)
