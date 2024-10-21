@@ -3,16 +3,16 @@
 )
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ADmeloduarte&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Melo Matthew Duarte Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devcustomers&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Melo Matthew Duarte Dev github stats" /> 
   
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmeloduarte&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcustomers&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
 <p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mathewduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.facebook.com/https://www.facebook.com/melomatthewdev/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A0A0B?logo=facebook&style=for-the-badge&logoColor=white" alt="Facebook Badge" /></a>
-    <a href="https://twitter.com/👽" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
-    <a href="https://www.instagram.com/https://www.instagram.com/melomatthewdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
+    <br/><br/><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/devcustomers/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+    <a href="https://www.facebook.com/https://www.facebook.com/devcustomers/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A0A0B?logo=facebook&style=for-the-badge&logoColor=white" alt="Facebook Badge" /></a>
+    <a href="https://twitter.com/devcustomers" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
+    <a href="https://www.instagram.com/https://www.instagram.com/devcustomers/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
     <a href="mailto:devscustomers@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-0A0A0B?logo=protonmail&style=for-the-badge&logoColor=white" alt="Outlook Badge" /></a>
 <p/>
 
