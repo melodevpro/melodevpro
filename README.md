@@ -1,15 +1,15 @@
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+Cibernauta👋🧔‍♂️!;Espero+te+encuentres+bien👍;Bienvenido/a!🧑‍💻+a+mi+repositorio+Dev!🌃
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+Cibernauta👋🧔‍♂️!;Espero+te+encuentres+bien👍;Bienvenido/a!🧑‍💻+a+mi+repositorio+Developer!🌃
 )
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=melomdev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Melo Matthew Duarte Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arkiapps&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Melo Matthew Duarte Dev github stats" /> 
   
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melomdev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkiapps&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
 <p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/admeloduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+    <br/><br/><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arkiapps/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://www.facebook.com/https://www.facebook.com/melomdev/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A0A0B?logo=facebook&style=for-the-badge&logoColor=white" alt="Facebook Badge" /></a>
     <a href="https://twitter.com/devcustomers" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
     <a href="https://www.instagram.com/https://www.instagram.com/melomdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
