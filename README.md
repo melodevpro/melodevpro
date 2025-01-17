@@ -1,5 +1,5 @@
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+Cibernauta👋🧔‍♂️!;Espero+te+encuentres+bien👍;Bienvenido/a!🧑‍💻+a+mi+repositorio+Developer!🌃
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+Cibernauta👋🧔‍♂️!;Bienvenido/a!🧑‍💻+a+mi+repositorio+Developer!🌃
 )
 
 <div align="center">  
